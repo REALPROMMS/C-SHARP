@@ -2,3 +2,5 @@
 string username = Console.ReadLine();
 Console.Write("Привет, ");
 Console.Write(username);
+
+// ReadLine - читает из консоли(спрашивает у пользователя)
