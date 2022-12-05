@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.Clear();
+int numberA = new Random().Next(100, 999);
+
+string n = numberA.ToString();
+Console.WriteLine(numberA);
+Console.WriteLine(n[1]);	
