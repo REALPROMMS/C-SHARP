@@ -1,0 +1,5 @@
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Домашка C-SHARP\homework_2\task4(dop)\obj\Debug\net6.0\task4(dop).csproj.AssemblyReference.cache
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Домашка C-SHARP\homework_2\task4(dop)\obj\Debug\net6.0\task4(dop).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Домашка C-SHARP\homework_2\task4(dop)\obj\Debug\net6.0\task4(dop).AssemblyInfoInputs.cache
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Домашка C-SHARP\homework_2\task4(dop)\obj\Debug\net6.0\task4(dop).AssemblyInfo.cs
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Домашка C-SHARP\homework_2\task4(dop)\obj\Debug\net6.0\task4(dop).csproj.CoreCompileInputs.cache
