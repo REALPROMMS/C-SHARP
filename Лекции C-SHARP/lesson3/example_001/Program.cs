@@ -12,7 +12,7 @@ void Method2(string msg)
 {
 	Console.WriteLine(msg);
 }
-Method2("Текст сообщения")
+Method2("Текст сообщения");
 // Method2(msg:"Текст сообщения") указываешь каждый аргумент отдельно,
 // в  разном порядке.
 
@@ -65,5 +65,5 @@ string Method4 (int count, string text)
 	return result;
 }
 
-string res = Method1(10, "MMS");
+string res = Method4(10, "MMS");
 Console.WriteLine(res); 
