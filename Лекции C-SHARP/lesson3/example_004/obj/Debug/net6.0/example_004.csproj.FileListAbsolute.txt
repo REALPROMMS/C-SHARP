@@ -1,0 +1,15 @@
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\obj\Debug\net6.0\example_004.csproj.AssemblyReference.cache
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\obj\Debug\net6.0\example_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\obj\Debug\net6.0\example_004.AssemblyInfoInputs.cache
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\obj\Debug\net6.0\example_004.AssemblyInfo.cs
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\obj\Debug\net6.0\example_004.csproj.CoreCompileInputs.cache
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\bin\Debug\net6.0\example_004.exe
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\bin\Debug\net6.0\example_004.deps.json
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\bin\Debug\net6.0\example_004.runtimeconfig.json
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\bin\Debug\net6.0\example_004.dll
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\bin\Debug\net6.0\example_004.pdb
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\obj\Debug\net6.0\example_004.dll
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\obj\Debug\net6.0\refint\example_004.dll
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\obj\Debug\net6.0\example_004.pdb
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\obj\Debug\net6.0\example_004.genruntimeconfig.cache
+C:\Users\Мишаня\Desktop\Frontend\C-SHARP\Лекции C-SHARP\lesson3\example_004\obj\Debug\net6.0\ref\example_004.dll
