@@ -10,7 +10,7 @@ string text = "-Я думаю, - сказал князь, улыбаясь, -ч�
 //             0123
 // s[3]  // r
 
-string Replace(string text, char oldValue, chaer newValue)
+string Replace(string text, char oldValue, char newValue)
 {
 	string result = String.Empty;
 
@@ -21,7 +21,7 @@ string Replace(string text, char oldValue, chaer newValue)
 		result = result + $"{newValue}";
 		else result = result + $"{text[i]}";
 	}
-		return;
+	return;
 }
 
 
@@ -29,10 +29,10 @@ string newText = Replace(text, ' ', '|');
 Console.WriteLine(newText);
 Console.WriteLine();
 
-string newText = Replace(text, 'к', 'К');
-Console.WriteLine(newText);
-Console.WriteLine();
+// string newText = Replace(text, 'к', 'К');
+// Console.WriteLine(newText);
+// Console.WriteLine();
 
-string newText = Replace(text, 'С', 'с');
-Console.WriteLine(newText);
-Console.WriteLine();
+// string newText = Replace(text, 'С', 'с');
+// Console.WriteLine(newText);
+// Console.WriteLine();
