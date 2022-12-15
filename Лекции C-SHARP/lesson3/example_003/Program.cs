@@ -21,7 +21,7 @@ string Replace(string text, char oldValue, char newValue)
 		result = result + $"{newValue}";
 		else result = result + $"{text[i]}";
 	}
-	return;
+	return result;
 }
 
 
