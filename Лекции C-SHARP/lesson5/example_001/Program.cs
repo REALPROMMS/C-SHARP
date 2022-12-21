@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int a = 12;
+Console.WriteLine(a.GetType().Name); // показывает тип данных
