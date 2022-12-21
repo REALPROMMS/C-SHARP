@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// double n = new Random().NextDouble() * (end - begin) + begin
+Console.WriteLine(new Random().NextDouble() * (10 + 10) - 10); // [-10, 10]
