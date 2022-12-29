@@ -7,7 +7,7 @@ void InputMatrix(int[,] matrix)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
 		  {
-				matrix[i, j] = new Random().Next(1, 10);
+				matrix[i, j] = new Random().Next(-10, 11); // [-10, 10]
 		  }
     }
 }
@@ -49,8 +49,9 @@ int[,] matrix = new int[size[0], size[1]];
 Console.WriteLine("Начальный массив:");
 InputMatrix(matrix);
 PrintMatrix(matrix);
-Console.WriteLine("Конечный массив:");
+Console.WriteLine("Конечный массив в порядке убывания:");
 SortToLower(matrix);
 PrintMatrix(matrix);
+
 
 
